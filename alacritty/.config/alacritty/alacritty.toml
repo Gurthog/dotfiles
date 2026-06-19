@@ -1,0 +1,19 @@
+working_directory = "None"
+
+[window]
+dimensions = { columns = 120, lines = 34 }
+position = { x = 550, y = 200 }
+padding = { x = 24, y = 24 }
+resize_increments = true
+
+[font]
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
+size = 15
+
+[bell]
+duration = 250
+color = "#fb542b"
+
+[mouse]
+hide_when_typing = true
+
